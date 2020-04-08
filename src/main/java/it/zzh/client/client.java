@@ -15,6 +15,7 @@ public class client {
         System.out.println(p1);
         if(p2!=null)
             System.out.println(p2);
-
+        System.out.println("testCommit");
+        //test
     }
 }
